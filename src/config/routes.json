@@ -1,0 +1,17 @@
+{
+  "protected": [
+    "/dashboard",
+    "/profile",
+    "/settings",
+    "/api/secure"
+  ],
+  "public": [
+    "/login",
+    "/register",
+    "/about"
+  ],
+  "adminOnly": [
+    "/dashboard/admin",
+    "/dashboard/manage-users"
+  ]
+}
