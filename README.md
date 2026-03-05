@@ -1,7 +1,7 @@
 # 🎓 Vision Learning
 ### *Empowering Darussalam Technology through Digital Pedagogy*
 
-[![Version](https://img.shields.io/badge/Version-0.0.0--pre-alpha-blue?style=for-the-badge)](https://github.com/visiondiba)
+[![Version](https://img.shields.io/badge/Version-0.0.0--pre--alpha-blue?style=for-the-badge)](https://github.com/visiondiba)
 [![Environment](https://img.shields.io/badge/Production-Live-green?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](#)
 
